@@ -40,6 +40,7 @@ section {
 }
 .about,
 .education,
+.experience,
 .services,
 .skills,
 .teams,
@@ -320,15 +321,45 @@ section .title::after {
     height: 8%;
     width: 6%;
 }
-#icon{
-  width: 30px;
-}
+
 .educationDetails > div{
   margin-top: 10px;
   font-size: 20px;
 }
 .education .title::after {
   content: "Studies";
+  background:#181a1b ;
+
+}
+/* Experience section */
+.experienceDetails{
+  background-color: #3fc337;
+  display: flex;
+  gap:40px;
+  border-radius: 10px;
+  margin-top: 15px;
+  /* height: 120px; */
+  
+}
+.experienceDetails > img{
+    color: black;
+    padding:5px;
+    border: 3px solid white;
+    border-radius: 100px;
+    margin-top:20px;
+    margin-left: 10%;
+    height: 8%;
+    width: 6%;
+}
+#icon{
+  width: 30px;
+}
+.experienceDetails > div{
+  margin-top: 10px;
+  font-size: 20px;
+}
+.experience .title::after {
+  /* content: "Studies"; */
   background:#181a1b ;
 
 }

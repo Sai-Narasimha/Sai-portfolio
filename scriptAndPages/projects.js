@@ -1,6 +1,62 @@
 let projectsSection = document.getElementById("mainDivProjectsSection");
 projectsSection.innerHTML = `
-            <!--  Travelocity- clone-->
+            <!--  Gift4Day -->
+            <div class="eachProjectDiv MailChimp">
+                <p class="ProjectName ">Gift4Day</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/Gift4Day.png" alt=""/>
+                    </div>
+                    <div class="projectDescription">
+                    <p>Developed <a href="https://www.gift4day.com/"
+                    style="color: #FFF; text-decoration: underline;" target="_blank">Gift4Day</a> website.<p >
+                        <br >
+                        Generate and share custom event links, invite guests via social media, and easily manage contributions and RSVPs. 
+                       </p>
+                        <br>
+                        <u style="font-weight:bold;">TechStack :- </u>
+                        <br>
+                        <div class="techStackProject">
+                        <p> <i class="fab fa-react"></i> React</p>
+                            <p><i class="fab fa-css3-alt"></i> MUI</p>
+                            <p> <i class="fab fa-react"></i> Redux Toolkit</p>
+                        </div>
+                        <div class="ProjectLinks">
+                        <a href="https://www.gift4day.com/" target="_blank"><button>Live</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--  Maigrate -->
+            <div class="eachProjectDiv MailChimp">
+                <p class="ProjectName ">Maigrate</p>
+                <div class="ProjectContainer">
+                    <div class="ProjectImage">
+                        <img src="./images/Maigrate.png" alt=""/>
+                    </div>
+                    <div class="projectDescription">
+                    <p>Developed <a href="https://app.maigrate.com/"
+                    style="color: #FFF; text-decoration: underline;" target="_blank">Maigrate</a> website.<p >
+                        <br >
+                        The no-code platform is designed to empower you to create your very own generative AI copilots for any imaginable application.
+                       </p>
+                        <br>
+                        <u style="font-weight:bold;">TechStack :- </u>
+                        <br>
+                        <div class="techStackProject">
+                        <p> <i class="fab fa-react"></i> React</p>
+                            <p><i class="fab fa-css3-alt"></i> Tailwind CSS</p>
+                            <p> <i class="fab fa-react"></i> Redux</p>
+                        </div>
+                        <div class="ProjectLinks">
+                        <a href="https://app.maigrate.com/" target="_blank"><button>Live</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--  Travelocity clone -->
+            
             <div class="eachProjectDiv MailChimp">
                 <p class="ProjectName ">Travelocity - clone</p>
                 <div class="ProjectContainer">
@@ -28,10 +84,8 @@ projectsSection.innerHTML = `
                         <a href="https://github.com/manishtmtmt/quiet-trade-5439" target="_blank"><button>
                         Github</button></a>
                         <a href="https://quite-trade-5439-travelocity.netlify.app/" target="_blank"><button>Demo</button></a>
-
                         </div>
                     </div>
-                    
                 </div>
             </div>
 

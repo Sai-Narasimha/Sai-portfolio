@@ -13,6 +13,18 @@ skills.innerHTML = `
         <p>CSS</p>
     </div>
     <div>
+        <i class="fab fa-css3-alt"></i>
+        <p>Bootstrap</p>
+    </div>
+    <div>
+        <i class="fab fa-css3-alt"></i>
+        <p>Tailwind</p>
+    </div>
+    <div>
+        <i class="fab fa-css3-alt"></i>
+        <p>MUI</p>
+    </div>
+    <div>
         <i class="fab fa-js-square"></i>
         <p>Advanced JS</p>
     </div>
@@ -34,7 +46,7 @@ skills.innerHTML = `
     </div>
     <div>
         <i class="fab fa-react"></i>
-        <p>Redux</p>
+        <p>Redux/Toolkit</p>
     </div>
    
 

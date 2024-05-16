@@ -11,10 +11,16 @@ about.innerHTML = `
                 <div class="column right">
                     <div class="text"> I'm Sai Narasimha</div>
                     <p>call me Sai, </p>
-                    <p>Motivated and efficient full-stack web developer with capability to building Projects with specialization of MERN Stack. Shaped and moulded by mesmerizing Masai curriculam.
-                    <br>
-                    Eager to take a responsible role in an inspiring organization, and to deliver
-                    products that offer a Simple and Friendly user experience.
+                    <p>Skilled frontend developer proficient in React with over 1.7+ years
+                    of hands-on experience. Renowned for crafting applications with
+                    clean, readable code and dynamic UI designs using state-of-the-
+                    art CSS frameworks such as Bootstrap, Tailwind CSS, and
+                    Material-UI. Recognized for consistently meeting project
+                    deadlines with precision, while also demonstrating expertise in
+                    JavaScript ES6+, Redux, and responsive web design principles.
+                    Experienced in integrating APIs and collaborating with backend
+                    developers to ensure seamless functionality. Strong advocate
+                    for code quality, accessibility, and user experience optimization
                     </p>
                     <br/>
                     <div class="mediaLinksAbout">
@@ -35,7 +41,7 @@ about.innerHTML = `
                     <a  href="tel:+91 8074352708">
                         <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-8074352708</p>
                     </a>
-                    <a href="https://drive.google.com/file/d/1WuDus0UECC2JyOBtiyWa7zyKZ6txWVw3/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/15DWGrjN3aiNPUJ2ISz1VRPFbpC1Sibsg/view?usp=sharing"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>
