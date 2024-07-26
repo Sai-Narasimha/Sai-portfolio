@@ -11,7 +11,7 @@ about.innerHTML = `
                 <div class="column right">
                     <div class="text"> I'm Sai Narasimha</div>
                     <p>call me Sai, </p>
-                    <p>Skilled frontend developer proficient in React with over 1.7+ years
+                    <p>Skilled frontend developer proficient in React with over 1.5+ years
                     of hands-on experience. Renowned for crafting applications with
                     clean, readable code and dynamic UI designs using state-of-the-
                     art CSS frameworks such as Bootstrap, Tailwind CSS, and
@@ -41,7 +41,7 @@ about.innerHTML = `
                     <a  href="tel:+91 8074352708">
                         <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-8074352708</p>
                     </a>
-                    <a href="https://drive.google.com/file/d/1p0iylWS_LSP6i1OJjzVuZsmPZKCT7kQm/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1NWOEBGb7ILPrJNkI1VGgNpXaF19tBWV8/view?usp=sharing"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>

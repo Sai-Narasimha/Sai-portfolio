@@ -6,7 +6,7 @@ experience.innerHTML = `
         <div class = "experienceDetails">
             <img src = "https://www.freeiconspng.com/thumbs/work-icon/work-on-laptop-icon-10.jpg"/>
             <div>     
-                <p>2022-Present</p>
+                <p>2022-2024</p>
                 <p>Software Developer - 1</p>
                 <p>Truequations Pvt Ltd</p>
             </div>
