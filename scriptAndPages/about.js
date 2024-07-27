@@ -41,7 +41,7 @@ about.innerHTML = `
                     <a  href="tel:+91 8074352708">
                         <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-8074352708</p>
                     </a>
-                    <a href="https://drive.google.com/file/d/1NWOEBGb7ILPrJNkI1VGgNpXaF19tBWV8/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1J5RQgQsVMjRiOW5BLsrzI5f0aHf4dhtu/view?usp=sharing"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>
