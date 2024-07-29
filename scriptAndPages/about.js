@@ -42,9 +42,24 @@ about.innerHTML = `
                         <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-8074352708</p>
                     </a>
                     <a href="https://drive.google.com/file/d/1J5RQgQsVMjRiOW5BLsrzI5f0aHf4dhtu/view?usp=sharing"
+                       onclick="openAndDownload(this.href); return false;"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>
         </div>
     </section>
 `;
+
+function openAndDownload(url) {
+  // Open the file in a new tab
+  window.open(url, '_blank');
+
+  // Trigger the download
+  const downloadUrl = 'https://drive.google.com/uc?export=download&id=1J5RQgQsVMjRiOW5BLsrzI5f0aHf4dhtu';
+  const link = document.createElement('a');
+  link.href = downloadUrl;
+  link.download = 'Resume.pdf';  // You can specify the file name here
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
